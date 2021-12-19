@@ -5,7 +5,7 @@ FILE: ViewController.swift
 Line 60: Replace and use the API Key registered at https://www.spoonacular.com 
 
 <br />
-![alt ScreenImage](https://github.com/fruitmonkey01/SwiftApp01/blob/main/SwiftAppUI.png)
+![alt ScreenImage](https://github.com/fruitmonkey01/SwiftApp01/blob/main/SwiftAppUI_320x551.png)
 <br />
 
 Procedures:
