@@ -1,4 +1,4 @@
-![alt ScreenUI](https://github.com/fruitmonkey01/SwiftApp01/blob/main/SwiftAppUI_320x551.png)
+![alt SwiftAppUI](https://github.com/fruitmonkey01/SwiftApp01/blob/main/SwiftAppUI.png)
 <br />
 
 Project: Web Services for iOS App by using Spoonacular REST API
